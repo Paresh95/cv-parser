@@ -16,3 +16,7 @@ Two approaches are tested:
 # To use
 
 Run the `main.py` script
+
+# Future ideas
+- Extract text via pre-defined lists & keywords, NER, fine-tune models, mix of techniques, more advanced LLMs
+- Look into extracting multiple job titles, job synopsis, hobbies, skills etc
